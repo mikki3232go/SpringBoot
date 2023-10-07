@@ -1,0 +1,8 @@
+server:
+  port: 9000
+spring:
+  mustache:
+    servlet:
+      expose-request-attributes: true
+      expose-session-attributes: true
+
